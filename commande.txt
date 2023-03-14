@@ -1,0 +1,2 @@
+Build an image from a Dockerfile : ( docker build -t docker_hello . )
+run an image from a Dockerfile : ( docker run -t docker_hello . )

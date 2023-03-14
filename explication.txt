@@ -1,0 +1,4 @@
+Docker contient 3 button :
+   1. build : generer l'image
+   2. run : executer l'image
+   3. [image] et [container]
